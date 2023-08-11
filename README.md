@@ -4,9 +4,17 @@
 
 🚀 **Upcoming Data Science Project: Disease Outbreak Analysis**
 
-![Project Banner]()
 
-📄 **Scope Document:** [Download Here]()
+
+
+# Project Trailer
+
+https://github.com/ThecoderPinar/EPIDEMAI/assets/107423523/6f0913de-d92d-4aa3-9ce8-3a8c950d3afc
+
+
+
+📄 **Scope DocumeNt:** [Download Here][EPİDEMAI(ENG).pdf](https://github.com/ThecoderPinar/EPIDEMAI/files/12323607/EPIDEMAI.ENG.pdf)
+
 
 This GitHub repository is prepared to share a data science project. The main purpose of the project is to analyze disease outbreaks using data analysis, visualization, and machine learning methods to predict future outbreaks.
 
